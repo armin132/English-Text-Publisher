@@ -1,0 +1,3 @@
+i recieve alot of informations about python ,and i think it is a useful tool
+this is is a small project for writting better english
+an university can use this tool for simple text cleanup
